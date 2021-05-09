@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Vik, frontend developer, UA.
+I'm Vik, front-end developer, UA.
 
 <!--
 **VikMelanchenko/VikMelanchenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
