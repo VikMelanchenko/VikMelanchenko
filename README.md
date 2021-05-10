@@ -1,6 +1,21 @@
 ### Hi there 👋
 I'm Vik, front-end developer, UA.
 
+Skills:
+GIT
+HTML/ CSS 
+JAVA SCRIPT (Basic level)
+SASS
+REACT (Basic level)
+NODE.js (Basic level)
+
+Languages:
+UA (native)
+RU (native)
+EN (B2)
+
+
+
 <!--
 **VikMelanchenko/VikMelanchenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
